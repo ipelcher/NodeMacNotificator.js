@@ -1,0 +1,14 @@
+{
+  "name": "NodeMacNotificator.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index"
+  },
+  "author": "ipelcher",
+  "license": "MIT",
+  "description": "Notificator for Mac On Node!",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
